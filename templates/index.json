@@ -6,228 +6,340 @@
         "slideshow-0": {
           "type": "image",
           "settings": {
-            "title_size": 80,
-            "link": "shopify:\/\/collections\/all",
-            "link_text": "Shop this",
-            "link_2": "shopify:\/\/collections\/all",
-            "link_text_2": "Shop all",
-            "color_accent": "#000000",
-            "text_align": "vertical-center horizontal-center",
-            "focal_point": "top center"
-          }
-        },
-        "slideshow-1": {
-          "type": "image",
-          "settings": {
-            "title_size": 80,
-            "link": "shopify:\/\/collections\/all",
-            "link_text": "Shop all",
-            "link_2": "shopify:\/\/collections\/all",
-            "link_text_2": "Shop all",
-            "color_accent": "#000000",
-            "text_align": "vertical-bottom horizontal-left",
+            "top_subheading": "",
+            "title": "Make Mom smile\nthis Mother's Day.",
+            "title_size": 60,
+            "subheading": "Surprise mom with a gift that is as unique as she is.",
+            "link": "shopify:\/\/collections\/holiday",
+            "link_text": "Shop Mother's Day",
+            "link_2": "shopify:\/\/pages\/april-campaign",
+            "link_text_2": "See the 5 Easy Steps",
+            "color_accent": "#002c44",
+            "text_align_desktop": "vertical-center-desktop horizontal-left-desktop",
+            "text_align_mobile": "vertical-bottom horizontal-center",
+            "image": "shopify:\/\/shop_images\/Homepage_Sending-Hugs_Desktop.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/HP-Sending_Hugs-Mobile-V2.png",
+            "overlay_opacity": 0,
             "focal_point": "top center"
           }
         }
       },
       "block_order": [
-        "slideshow-0",
-        "slideshow-1"
+        "slideshow-0"
       ],
       "settings": {
         "section_height": "750px",
-        "mobile_height": "auto",
-        "parallax": true,
+        "mobile_height": "600px",
+        "parallax": false,
         "style": "bars",
         "autoplay": true,
         "autoplay_speed": 7
       }
     },
-    "rich-text": {
-      "type": "rich-text",
+    "164875760866cc14f2": {
+      "type": "text-columns",
       "blocks": {
-        "heading": {
-          "type": "heading",
-          "settings": {}
+        "164875760865c2d6e9-0": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Wine_Not_in_box.jpg",
+            "image_width": 650,
+            "title": "Wine Not",
+            "text": "<p>We love this bundle for all the mom's that love wine. It includes 4 super fun high quality gold coasters, a  cool \"wine tasting guide\" tea towel (almost too pretty to use) and 2 amazing Swedish wine themed dish cloths that are eco-friendly, bacteria resistant and never stink in the sink.<\/p>",
+            "button_label": "View More",
+            "button_link": "shopify:\/\/products\/wine-not"
+          }
         },
-        "text": {
-          "type": "text",
-          "settings": {}
+        "164875760865c2d6e9-1": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Sweetest_Mom_in_Box.jpg",
+            "image_width": 650,
+            "title": "Sweetest Mom",
+            "text": "<p>We've bundled 3 of our favourite sweets to make this decadent gift trio.  Mom will love indulging on our Sea Salt and Maple popcorn which has just the right amount sweetness, our super creamy triple caramel bar handcrafted by an award winning chocolatier in Prince Edward Country and our squish sparkling bears that are an all time celebration favourite.<\/p>",
+            "button_label": "View More",
+            "button_link": "shopify:\/\/products\/sweetest-mom"
+          }
+        },
+        "164875760865c2d6e9-2": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Moms_Time_Out_in_box.jpg",
+            "image_width": 650,
+            "title": "Mom's Time Out",
+            "text": "<p>This gorgeous oversized mug will give mom the time she needs to enjoy a hot beverage, while drifting away into a new book and snacking on our top selling Belgian Chocolate Fraktals.<\/p>",
+            "button_label": "View More",
+            "button_link": "shopify:\/\/products\/moms-time-out"
+          }
         }
       },
       "block_order": [
-        "heading",
-        "text"
+        "164875760865c2d6e9-0",
+        "164875760865c2d6e9-1",
+        "164875760865c2d6e9-2"
       ],
-      "settings": {}
+      "settings": {
+        "title": "Mother's Day Bundles",
+        "align_text": "center",
+        "divider": false,
+        "button_type": true
+      }
     },
-    "promo-grid": {
+    "1647457301a337f511": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Mother's Day Favourites",
+        "home_featured_products": "cards",
+        "per_row": 4,
+        "rows": 1,
+        "mobile_scrollable": false,
+        "view_all": false,
+        "divider": false
+      }
+    },
+    "1648757087d731c9ea": {
       "type": "promo-grid",
       "blocks": {
-        "promo-0": {
+        "1648757086d5499660-0": {
           "type": "advanced",
           "settings": {
-            "cta_link1": "shopify:\/\/collections\/all",
+            "subheading": "",
+            "heading": "Graduation",
+            "textarea": "Our Graduation boxes are a thoughtful and creative way to congratulate all the 2022 Grads in your life.",
+            "cta_text1": "Shop Congratulations",
+            "cta_link1": "shopify:\/\/collections\/congratulations",
+            "cta_text2": "",
+            "cta_link2": "",
+            "image": "shopify:\/\/shop_images\/5AL_Homepage_Graduation.jpg",
+            "video_url": "",
             "width": "50",
-            "height": 800,
+            "height": 500,
             "text_size": 100,
             "text_align": "vertical-center horizontal-center",
             "focal_point": "center",
+            "color_accent": "#002c44",
             "boxed": false,
-            "framed": true
+            "framed": false
           }
         },
-        "promo-1": {
+        "1648757086d5499660-1": {
           "type": "advanced",
           "settings": {
-            "cta_link1": "shopify:\/\/collections\/all",
+            "subheading": "",
+            "heading": "Father's Day",
+            "textarea": "The perfect Father's Day boxes and gift bundles  coming soon...",
+            "cta_text1": "",
+            "cta_link1": "",
+            "cta_text2": "",
+            "cta_link2": "",
+            "image": "shopify:\/\/shop_images\/DSC_7804-Edit.jpg",
+            "video_url": "",
             "width": "50",
             "height": 500,
             "text_size": 100,
             "text_align": "vertical-bottom horizontal-center",
-            "focal_point": "80% 50%",
-            "boxed": true,
+            "focal_point": "bottom",
+            "color_accent": "rgba(0,0,0,0)",
+            "boxed": false,
             "framed": false
           }
         }
       },
       "block_order": [
-        "promo-0",
-        "promo-1"
+        "1648757086d5499660-0",
+        "1648757086d5499660-1"
       ],
       "settings": {
         "full_width": true,
-        "gutter_size": 20,
+        "gutter_size": 16,
         "space_above": false,
         "space_below": false
       }
     },
-    "featured-collections": {
+    "1646772150c74e4d34": {
       "type": "featured-collections",
       "blocks": {
-        "featured-collections-0": {
+        "1646772150026952e3-3": {
           "type": "collection",
-          "settings": {}
+          "settings": {
+            "collection": "love",
+            "title": "",
+            "focal_point": "center center"
+          }
         },
-        "featured-collections-1": {
+        "1646772150026952e3-0": {
           "type": "collection",
-          "settings": {}
+          "settings": {
+            "collection": "birthday",
+            "title": "",
+            "focal_point": "center center"
+          }
         },
-        "featured-collections-2": {
+        "1646772150026952e3-2": {
           "type": "collection",
-          "settings": {}
+          "settings": {
+            "collection": "just-because",
+            "title": "",
+            "focal_point": "center center"
+          }
         },
-        "featured-collections-3": {
+        "119d8fb0-7b86-4abe-97be-4c76afe85459": {
           "type": "collection",
-          "settings": {}
+          "settings": {
+            "collection": "thank-you",
+            "title": "",
+            "focal_point": "center center"
+          }
+        },
+        "727c38cf-2c1c-4ae8-bb0d-34352e22e724": {
+          "type": "collection",
+          "settings": {
+            "collection": "corporate",
+            "title": "",
+            "focal_point": "center center"
+          }
+        },
+        "1646772150026952e3-1": {
+          "type": "collection",
+          "settings": {
+            "collection": "congratulations",
+            "title": "",
+            "focal_point": "center center"
+          }
+        },
+        "902da773-aab5-4a5b-abb7-ad140d5c5be6": {
+          "type": "collection",
+          "settings": {
+            "collection": "get-well",
+            "title": "",
+            "focal_point": "center center"
+          }
+        },
+        "f038e3af-ee01-4cae-965a-cf33be01393a": {
+          "type": "collection",
+          "settings": {
+            "collection": "retirement",
+            "title": "",
+            "focal_point": "center center"
+          }
         }
       },
       "block_order": [
-        "featured-collections-0",
-        "featured-collections-1",
-        "featured-collections-2",
-        "featured-collections-3"
+        "1646772150026952e3-3",
+        "1646772150026952e3-0",
+        "1646772150026952e3-2",
+        "119d8fb0-7b86-4abe-97be-4c76afe85459",
+        "727c38cf-2c1c-4ae8-bb0d-34352e22e724",
+        "1646772150026952e3-1",
+        "902da773-aab5-4a5b-abb7-ad140d5c5be6",
+        "f038e3af-ee01-4cae-965a-cf33be01393a"
       ],
       "settings": {
-        "title": "Shop by category",
+        "title": "What occasion do you need?",
         "divider": false,
         "per_row": 4,
         "enable_gutter": true
       }
     },
-    "promo-grid2": {
-      "type": "promo-grid",
+    "1646770580b0bbc2be": {
+      "type": "featured-video",
+      "settings": {
+        "title": "How it Works",
+        "video_url": "https:\/\/youtu.be\/eYNG2tCSFhw",
+        "divider": false,
+        "bg_color": "#fdc0e5"
+      }
+    },
+    "164884227180084092": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Popular Gift Bundles",
+        "home_featured_products": "gifts",
+        "per_row": 4,
+        "rows": 1,
+        "mobile_scrollable": false,
+        "view_all": true,
+        "divider": false
+      }
+    },
+    "1646771323958279ad": {
+      "type": "testimonials",
       "blocks": {
-        "promo2-0": {
-          "type": "advanced",
+        "164677132368ec3a7f-0": {
+          "type": "testimonial",
           "settings": {
-            "cta_link1": "shopify:\/\/collections\/all",
-            "width": "100",
-            "height": 720,
-            "text_size": 120,
-            "focal_point": "80% 50%",
-            "boxed": false,
-            "framed": false
+            "icon": "5-stars",
+            "testimonial": "<p>\"I've given four or five of these fabulous little boxes and each has brought joy to the recipient. Also really appreciate how this company goes the extra mile to ensure the pretty packages arrive on time--excellent customer service!\"<\/p>",
+            "author": "Jackie K.",
+            "author_info": ""
           }
         },
-        "promo2-1": {
-          "type": "sale_collection",
+        "164677132368ec3a7f-1": {
+          "type": "testimonial",
           "settings": {
-            "width": "50",
-            "boxed": false,
-            "framed": true
+            "icon": "5-stars",
+            "testimonial": "<p>\"Love, love, love these gift boxes. The personalization makes it an extra special gift and gives it that special touch. Perfect way to send a little love or tell someone you are thinking about them. Much better than flowers!!\"<\/p>",
+            "author": "Karen O.",
+            "author_info": ""
           }
         },
-        "promo2-2": {
-          "type": "sale_collection",
+        "164677132368ec3a7f-2": {
+          "type": "testimonial",
           "settings": {
-            "width": "50",
-            "boxed": false,
-            "framed": true
+            "icon": "5-stars",
+            "testimonial": "<p>\"I LOVED making a box for mother’s day! I designed it for my mother-in-law and she thought it was the most unique gift to ever arrive at her front door! She was so surprised and still has the photos on her fridge months later.\"<\/p>",
+            "author": "Brittany S.",
+            "author_info": ""
           }
         }
       },
       "block_order": [
-        "promo2-0",
-        "promo2-1",
-        "promo2-2"
+        "164677132368ec3a7f-0",
+        "164677132368ec3a7f-1",
+        "164677132368ec3a7f-2"
       ],
       "settings": {
-        "full_width": false,
-        "gutter_size": 20,
-        "space_above": false,
-        "space_below": false
+        "title": "What Everyone's Saying",
+        "align_text": "center",
+        "round_images": true,
+        "color_background": "#fdc0e5",
+        "color_text": "#002c44"
       }
     },
-    "featured-collection": {
-      "type": "featured-collection",
+    "16467717953a333c22": {
+      "type": "apps",
+      "blocks": {
+        "c1c7253b-c0ab-41e7-83dd-7c175252a1ce": {
+          "type": "shopify:\/\/apps\/instafeed-instagram-feed\/blocks\/app-block\/c447db20-095d-4a10-9725-b5977662c9d5",
+          "settings": {
+            "heading_font": "helvetica_n4",
+            "heading_size": 10,
+            "feed_width": 100,
+            "html_area": ""
+          }
+        }
+      },
+      "block_order": [
+        "c1c7253b-c0ab-41e7-83dd-7c175252a1ce"
+      ],
       "settings": {
-        "per_row": 4,
-        "rows": 1,
-        "view_all": true,
-        "divider": false
+        "full_width": true,
+        "space_around": false
       }
-    },
-    "background-image-text": {
-      "type": "background-image-text",
-      "settings": {
-        "button_link": "shopify:\/\/collections\/all",
-        "focal_point": "80% 0",
-        "layout": "left",
-        "height": 750,
-        "framed": false,
-        "parallax": true
-      }
-    },
-    "blog-posts": {
-      "type": "blog-posts",
-      "settings": {
-        "title": "From the journal",
-        "blog": "news",
-        "post_limit": 3,
-        "blog_show_tags": false,
-        "blog_show_date": true,
-        "blog_show_comments": false,
-        "blog_show_author": false,
-        "view_all": true,
-        "blog_image_size": "wide",
-        "divider": false
-      }
-    },
-    "map": {
-      "type": "map",
-      "settings": {}
     }
   },
   "order": [
     "slideshow",
-    "rich-text",
-    "promo-grid",
-    "featured-collections",
-    "promo-grid2",
-    "featured-collection",
-    "background-image-text",
-    "blog-posts",
-    "map"
+    "164875760866cc14f2",
+    "1647457301a337f511",
+    "1648757087d731c9ea",
+    "1646772150c74e4d34",
+    "1646770580b0bbc2be",
+    "164884227180084092",
+    "1646771323958279ad",
+    "16467717953a333c22"
   ]
 }

@@ -1,0 +1,256 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {}
+    },
+    "1646776185eb8a73df": {
+      "type": "slideshow",
+      "blocks": {
+        "1646776185962ca285-0": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "A simple gesture.\nEndless loyalty.",
+            "title_size": 50,
+            "subheading": "",
+            "link": "shopify:\/\/pages\/contact-us",
+            "link_text": "Contact Us",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align_desktop": "vertical-center-desktop horizontal-center-desktop",
+            "text_align_mobile": "vertical-center horizontal-center",
+            "image": "shopify:\/\/shop_images\/WelcomeToTheTeam.jpg",
+            "overlay_opacity": 12,
+            "focal_point": "center center"
+          }
+        }
+      },
+      "block_order": [
+        "1646776185962ca285-0"
+      ],
+      "settings": {
+        "section_height": "650px",
+        "mobile_height": "auto",
+        "parallax": false,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5
+      }
+    },
+    "164728567813cd61c2": {
+      "type": "text-columns",
+      "disabled": true,
+      "blocks": {
+        "16472856788379edf8-0": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image_width": 650,
+            "title": "Example title",
+            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "16472856788379edf8-1": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image_width": 650,
+            "title": "Example title",
+            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.<\/p>",
+            "button_label": "Optional button",
+            "button_link": ""
+          }
+        },
+        "16472856788379edf8-2": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image_width": 650,
+            "title": "Example title",
+            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.<\/p>",
+            "button_label": "Optional button",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "16472856788379edf8-0",
+        "16472856788379edf8-1",
+        "16472856788379edf8-2"
+      ],
+      "settings": {
+        "title": "",
+        "align_text": "center",
+        "divider": false
+      }
+    },
+    "1649273379ab78f164": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Corpoarte_Welcome_Box.jpg",
+        "image_width": 700,
+        "subtitle": "",
+        "title": "Welcome",
+        "text": "<p>There's nothing like adding a personal touch, by welcoming new employees with our corporate \"Welcome\" gift boxes. <\/p>",
+        "button_label": "Shop Corporate",
+        "button_link": "shopify:\/\/collections\/corporate",
+        "button_style": "primary",
+        "align_text": "left",
+        "layout": "right",
+        "divider": false
+      }
+    },
+    "1649273828803f4c72": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Corporate_Appreciation.jpg",
+        "image_width": 700,
+        "subtitle": "",
+        "title": "Appreciation",
+        "text": "<p>A creative way of letting your employees know they are appreciated.<\/p>",
+        "button_label": "Shop Corporate",
+        "button_link": "shopify:\/\/collections\/corporate",
+        "button_style": "primary",
+        "align_text": "left",
+        "layout": "left",
+        "divider": false
+      }
+    },
+    "16492738653560e806": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Next_Adventure_Bundle.jpg",
+        "image_width": 700,
+        "subtitle": "",
+        "title": "Departure",
+        "text": "<p>Parting ways is never easy, let someone know how much they will be missed with this one of a kind box.<\/p>",
+        "button_label": "Shop Corporate",
+        "button_link": "shopify:\/\/collections\/corporate",
+        "button_style": "primary",
+        "align_text": "left",
+        "layout": "right",
+        "divider": false
+      }
+    },
+    "1647285685d04a9061": {
+      "type": "contact-form",
+      "settings": {
+        "title": "Contact us",
+        "text": "",
+        "show_company": false,
+        "show_phone": false,
+        "show_count": false,
+        "count_min": "(Minimum 10)",
+        "show_date": false,
+        "show_design": false,
+        "show_gifts": false,
+        "show_cardmsg": false,
+        "show_message": true,
+        "show_details": false,
+        "narrow_column": true
+      }
+    },
+    "1646776456674abcf8": {
+      "type": "testimonials",
+      "disabled": true,
+      "blocks": {
+        "164677645637b6d4c4-0": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.<\/p>",
+            "author": "Author's name",
+            "author_info": "Los Angeles, CA"
+          }
+        },
+        "164677645637b6d4c4-1": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.<\/p>",
+            "author": "Author's name",
+            "author_info": "Los Angeles, CA"
+          }
+        },
+        "164677645637b6d4c4-2": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.<\/p>",
+            "author": "Author's name",
+            "author_info": "Los Angeles, CA"
+          }
+        },
+        "164677645637b6d4c4-3": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.<\/p>",
+            "author": "Author's name",
+            "author_info": "Los Angeles, CA"
+          }
+        },
+        "164677645637b6d4c4-4": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.<\/p>",
+            "author": "Author's name",
+            "author_info": "Los Angeles, CA"
+          }
+        }
+      },
+      "block_order": [
+        "164677645637b6d4c4-0",
+        "164677645637b6d4c4-1",
+        "164677645637b6d4c4-2",
+        "164677645637b6d4c4-3",
+        "164677645637b6d4c4-4"
+      ],
+      "settings": {
+        "title": "Testimonials",
+        "align_text": "center",
+        "round_images": true,
+        "color_background": "#f7f7f7",
+        "color_text": "#1c1d1d"
+      }
+    },
+    "1649353729df574f2f": {
+      "type": "apps",
+      "blocks": {
+        "955d7d74-e837-4ff2-9b3b-b75a3df861eb": {
+          "type": "shopify:\/\/apps\/instafeed\/blocks\/app-block\/c447db20-095d-4a10-9725-b5977662c9d5",
+          "settings": {
+            "heading_font": "helvetica_n4",
+            "heading_size": 20,
+            "feed_width": 100,
+            "html_area": ""
+          }
+        }
+      },
+      "block_order": [
+        "955d7d74-e837-4ff2-9b3b-b75a3df861eb"
+      ],
+      "settings": {
+        "full_width": true,
+        "space_around": false
+      }
+    }
+  },
+  "order": [
+    "main",
+    "1646776185eb8a73df",
+    "164728567813cd61c2",
+    "1649273379ab78f164",
+    "1649273828803f4c72",
+    "16492738653560e806",
+    "1647285685d04a9061",
+    "1646776456674abcf8",
+    "1649353729df574f2f"
+  ]
+}

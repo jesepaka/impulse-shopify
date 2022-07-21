@@ -1,0 +1,152 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {}
+    },
+    "16467752112c6a4743": {
+      "type": "slideshow",
+      "blocks": {
+        "1646775211f4e5b9ce-1": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "Welcome to\n5am Lemon",
+            "title_size": 80,
+            "subheading": "",
+            "link": "",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align_desktop": "vertical-bottom-desktop horizontal-left-desktop",
+            "text_align_mobile": "vertical-bottom horizontal-center",
+            "image": "shopify:\/\/shop_images\/Audrey.png",
+            "image_mobile": "shopify:\/\/shop_images\/DSC_6733-Edit.jpg",
+            "overlay_opacity": 16,
+            "focal_point": "center center"
+          }
+        }
+      },
+      "block_order": [
+        "1646775211f4e5b9ce-1"
+      ],
+      "settings": {
+        "section_height": "650px",
+        "mobile_height": "auto",
+        "parallax": false,
+        "style": "minimal",
+        "autoplay": true,
+        "autoplay_speed": 5
+      }
+    },
+    "16467761249b8512c3": {
+      "type": "rich-text",
+      "disabled": true,
+      "blocks": {
+        "1646776124fcb7a0c1-0": {
+          "type": "heading",
+          "settings": {
+            "title": "Short Story"
+          }
+        },
+        "1646776124fcb7a0c1-1": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Keep it shortttt, but add it here<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "1646776124fcb7a0c1-0",
+        "1646776124fcb7a0c1-1"
+      ],
+      "settings": {
+        "align_text": "left",
+        "narrow_column": true,
+        "divider": false,
+        "bg_color": "rgba(0,0,0,0)"
+      }
+    },
+    "1649684838b2f7ba3b": {
+      "type": "advanced-content",
+      "blocks": {
+        "1649684838a812f05f-1": {
+          "type": "liquid",
+          "settings": {
+            "code": "<h2>The only thing better than being surprised by a 5am Lemon box is creating and sending one.<\/h2>\n<p>I founded 5am Lemon to bring joy to people. I wanted to make it easy for people to be thoughtful; to take the simple gesture of sending a card and a small gift and turn it into an experience that would make someone’s day.\n<\/br><\/br>\nOver the past 2 years we have lost a lot of human connection, 5am Lemon is a fun way to bring some of it back.\n<\/br><\/br>\nIn May 2020 I combined my love of greeting cards with my knowledge of print and within a few hours came up with a layout that would allow people to not only customize and detach a personalized card but also upload 4 x 4 photos to detachable side flaps.\n<\/br><\/br>\nThe first box I created with my team was a university graduation box for my daughter Sarah.  The box was an instant hit and the 2 removable photos of Sarah with her roommates stole the show.  It was at that moment I knew this box was destined to deliver happiness and fun.\n<\/br><\/br>\nZig Ziglar once said – “You don’t have to be great to start, but you have to start to be great.” With this in mind, we are always adding new cards, meaningful gifts and tweaking the user experience as we want to ensure our customers have a ton of choice and can easily find just the right card and gift to make someone feel extraordinary.\n<\/br><\/br>Thanks for stopping by.<\/p>\n<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0517\/8700\/6144\/files\/AUDREY-SIGNATURE.png\" alt=\"Audrey\" width=\"15%\">\n<p>PS - You probably want to know what’s the story behind the name?  5am Lemon represents my ritual of getting up early and kick-starting the day with a glass of warm lemon water.  I like to own my morning before I can own my day!<\/p>",
+            "width": "75%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "1649684838a812f05f-1"
+      ],
+      "settings": {
+        "full_width": false,
+        "space_around": true,
+        "horizontal_center": true
+      }
+    },
+    "16467750416cd5ba5f": {
+      "type": "rich-text",
+      "blocks": {
+        "16467750410dd7840f-0": {
+          "type": "heading",
+          "settings": {
+            "title": "Our Mission"
+          }
+        },
+        "16467750410dd7840f-1": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p><em>To provide a fun, easy and affordable way to send a thoughtful message and small gift to those that are important in your life.<\/em><\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "16467750410dd7840f-0",
+        "16467750410dd7840f-1"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false,
+        "bg_color": "#fdc0e5"
+      }
+    },
+    "16467750677f35096d": {
+      "type": "apps",
+      "blocks": {
+        "d6174e34-df17-4f6b-ab40-bc26b743d88c": {
+          "type": "shopify:\/\/apps\/instafeed\/blocks\/app-block\/c447db20-095d-4a10-9725-b5977662c9d5",
+          "settings": {
+            "heading_font": "helvetica_n4",
+            "heading_size": 20,
+            "feed_width": 100,
+            "html_area": ""
+          }
+        }
+      },
+      "block_order": [
+        "d6174e34-df17-4f6b-ab40-bc26b743d88c"
+      ],
+      "settings": {
+        "full_width": true,
+        "space_around": false
+      }
+    }
+  },
+  "order": [
+    "main",
+    "16467752112c6a4743",
+    "16467761249b8512c3",
+    "1649684838b2f7ba3b",
+    "16467750416cd5ba5f",
+    "16467750677f35096d"
+  ]
+}
